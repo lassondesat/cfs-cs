@@ -1,6 +1,6 @@
 # cFS: Checksum
 
-[![GitHub release](https://img.shields.io/github/release/yusend/cfs-cs.svg)](https://github.com/yusend/cfs-cs/releases)
+[![GitHub release](https://img.shields.io/github/release/lassondesat/cfs-cs.svg)](https://github.com/lassondesat/cfs-cs/releases)
 
 * [Original README](cfs-cs-app-OSS-readme.txt)
 
@@ -31,5 +31,5 @@ regions ("Memory") specified by the users.
 
 * https://sourceforge.net/projects/cfs-cs/
 
-[osal]: https://github.com/yusend/osal
-[cfe]: https://github.com/yusend/coreflightexec
+[osal]: https://github.com/lassondesat/osal
+[cfe]: https://github.com/lassondesat/coreflightexec
